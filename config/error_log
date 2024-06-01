@@ -1,0 +1,4 @@
+[29-May-2024 07:13:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/openekie/lara-crud.openeyeit.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/openekie/lara-crud.openeyeit.com/config/database.php on line 18
